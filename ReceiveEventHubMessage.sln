@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveEventHubMessage", "ReceiveEventHubMessage.csproj", "{6ED96268-4513-4D87-8BE5-3E3E06B3D5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED96268-4513-4D87-8BE5-3E3E06B3D5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED96268-4513-4D87-8BE5-3E3E06B3D5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED96268-4513-4D87-8BE5-3E3E06B3D5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED96268-4513-4D87-8BE5-3E3E06B3D5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D68131B5-03FA-4726-9C16-08443A0DF998}
+	EndGlobalSection
+EndGlobal
